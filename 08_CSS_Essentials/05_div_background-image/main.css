@@ -1,0 +1,11 @@
+div {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    border: groove;
+    border-width: 20px;
+    background-image: url('img/Modern_Rome.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: brown;
+}
